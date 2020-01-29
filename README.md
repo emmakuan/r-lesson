@@ -1,6 +1,6 @@
 ## R Lesson
 
-**Author:** Emma Kuan
+**Author:** Emma Kuan, Florene Roan
 
 **Dependency:** dplyr, ggplot2
 
